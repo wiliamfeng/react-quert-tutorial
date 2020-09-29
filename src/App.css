@@ -1,0 +1,14 @@
+.post {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  border: solid 1px;
+  list-style: none;
+  margin-bottom: 15px;
+  padding: 5px;
+}
+
+.btn {
+  display: block;
+  margin: 15px auto;
+}
